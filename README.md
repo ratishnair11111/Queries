@@ -1,0 +1,2 @@
+# Queries
+Solution for Queries
